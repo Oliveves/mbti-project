@@ -1,2 +1,11 @@
 @charset "UTF-8";
 
+body {background: #f6fcff;
+background: url("../images/main_bg.jpg")no-repeat top center;
+padding: 80px 0 80px;}
+
+.character {
+    width: 100%;
+    max-width: 364px;
+    margin: 0 auto 40px;
+}
